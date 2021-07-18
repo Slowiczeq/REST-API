@@ -1,4 +1,4 @@
 .env
 .idea/
-.pytest_cache/
+.py_cache
 venv/
